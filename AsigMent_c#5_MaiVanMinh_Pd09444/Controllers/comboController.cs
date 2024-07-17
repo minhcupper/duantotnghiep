@@ -28,6 +28,7 @@ namespace AsigMent_c_5_MaiVanMinh_Pd09444.Controllers
         [HttpGet("{id}")]
         public ActionResult<Combo> Get(int id)
         {
+        string dulieu="vanminh"
             var data = _context.combos.Find(id);
             if (data == null)
             {
