@@ -1,0 +1,6 @@
+@AsigMent_c_5_MaiVanMinh_Pd09444_HostAddress = http://localhost:5051
+
+GET {{AsigMent_c_5_MaiVanMinh_Pd09444_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

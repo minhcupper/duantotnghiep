@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AsigMent_c#5_MaiVanMinh_Pd09444.props" />
+</Project>
