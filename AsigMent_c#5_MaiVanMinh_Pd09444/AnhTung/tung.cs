@@ -8,4 +8,4 @@ public chucnang()
 public thinhne()
 {
 	int[] a = new int[1];
-}
+}//11111
