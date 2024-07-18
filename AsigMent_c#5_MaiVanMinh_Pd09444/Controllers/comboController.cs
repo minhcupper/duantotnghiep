@@ -41,6 +41,7 @@ namespace AsigMent_c_5_MaiVanMinh_Pd09444.Controllers
         [HttpPost]
         public ActionResult<Combo> Post([FromBody] Combo combo)
         {
+            // tung thay doi
             if (combo == null)
             {
                 return BadRequest("Combo cannot be null.");
