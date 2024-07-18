@@ -17,5 +17,6 @@ public tinhtong()
 public minhne()
 {
     int a, b;
+	//aaa
 
 }
