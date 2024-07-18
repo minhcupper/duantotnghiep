@@ -13,5 +13,9 @@ public tinhtong()
 {
 	int a, b;
 	
+}
+public minhne()
+{
+    int a, b;
 
 }
