@@ -20,6 +20,7 @@ namespace AsigMent_c_5_MaiVanMinh_Pd09444.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Combo>> Get()
         {
+            //thay doi vi du mau
             var dl = _context.combos.ToList();
             return dl.ToList();
         }
