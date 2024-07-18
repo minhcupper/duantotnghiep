@@ -24,7 +24,7 @@ namespace AsigMent_c_5_MaiVanMinh_Pd09444.Controllers
             var dl = _context.combos.ToList();
             return dl.ToList();
         }
-
+       //thinh thay doi
         // GET: api/department/5
         [HttpGet("{id}")]
         public ActionResult<Combo> Get(int id)
